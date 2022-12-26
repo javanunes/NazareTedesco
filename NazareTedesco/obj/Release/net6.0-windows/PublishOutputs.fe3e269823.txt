@@ -1,0 +1,5 @@
+C:\TEMP\NazareTedesco.exe
+C:\TEMP\NazareTedesco.dll
+C:\TEMP\NazareTedesco.deps.json
+C:\TEMP\NazareTedesco.runtimeconfig.json
+C:\TEMP\NazareTedesco.pdb

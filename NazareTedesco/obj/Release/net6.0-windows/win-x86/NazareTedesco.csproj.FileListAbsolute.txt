@@ -1,0 +1,17 @@
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\bin\Release\net6.0-windows\win-x86\NazareTedesco.exe
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\bin\Release\net6.0-windows\win-x86\NazareTedesco.deps.json
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\bin\Release\net6.0-windows\win-x86\NazareTedesco.runtimeconfig.json
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\bin\Release\net6.0-windows\win-x86\NazareTedesco.dll
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\bin\Release\net6.0-windows\win-x86\NazareTedesco.pdb
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.csproj.AssemblyReference.cache
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.Form1.resources
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.csproj.GenerateResource.cache
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.AssemblyInfoInputs.cache
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.AssemblyInfo.cs
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.dll
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\refint\NazareTedesco.dll
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.pdb
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\NazareTedesco.genruntimeconfig.cache
+C:\Users\ricardo\source\repos\NazareTedesco\NazareTedesco\obj\Release\net6.0-windows\win-x86\ref\NazareTedesco.dll
